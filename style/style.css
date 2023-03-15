@@ -105,6 +105,11 @@ header{
     font-style: normal;
     font-weight: 500;
 }
+
+.section_collaborate {
+    width: 1110px;
+    display: flex;
+}
 .collaborate {
     margin-top: 122px;
     display: flex;
